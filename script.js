@@ -13,7 +13,22 @@ const imagems = [
     { name: "Daenerys Targaryen", tipo: "REALISMO", src: "img/Daenerys Targaryen.jpg" },
     { name: "CORINGA", tipo: "REALISMO", src: "img/coringa.jpg" },
     { name: "Deadpool & Wolverine", tipo: "DIGITAL", src: "img/deadpooo digital.jpg" },
-    { name: "JIRAIYA E NARUTO", tipo: "DIGITAL", src: "img/digital.jpg" }
+    { name: "JIRAIYA E NARUTO", tipo: "DIGITAL", src: "img/digital.jpg" },
+    { name: "Fullmetal Alchemist", tipo: "DIGITAL", src: "img/fumetal digita 2.jpg" },
+    { name: "Fullmetal Alchemist", tipo: "DIGITAL", src: "img/fumetal digital.jpg" },
+    { name: "Justiceiro", tipo: "REALISMO", src: "img/justiceiro.jpg" },
+    { name: "kuabara ", tipo: "ANIME", src: "img/kuabara lapis.jpg" },
+    { name: "kurt cobain ", tipo: "REALISMO", src: "img/kurt cobain.jpg" },
+    { name: "Lázaro Ramos ", tipo: "REALISMO", src: "img/lazaro ramos.jpg" },
+    { name: "Mano Brown ", tipo: "REALISMO", src: "img/manobrow digital.jpg" },
+    { name: "Menino maluquinho ", tipo: "DIGITAL", src: "img/menino maluquinho digital.jpg" },
+    { name: "NARUTO ", tipo: "ANIME", src: "img/naruto lapis.jpg" },
+    { name: "Roronoa Zoro ", tipo: "ANIME", src: "img/one peas lapis.jpg" },
+    { name: "POKEMON ", tipo: "DIGITAL", src: "img/pokemon.jpg" },
+    { name: "Yusuke Urameshi ", tipo: "ANIME", src: "img/uramechi lapis.jpg" },
+    { name: "Melancia ", tipo: "REALISMO", src: "img/melancia lapis.jpg" },
+    { name: "Melancia ", tipo: "REALISMO", src: "img/melancia lapis.jpg" },
+
   ];
   
   const itensPorPagina = 4;
