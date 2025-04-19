@@ -112,4 +112,18 @@ document.querySelectorAll(".menu-mobile button").forEach(btn => {
   });
 });
 
-  
+  // === ZOOM COM OVERLAY ===
+const overlay = document.getElementById('zoomOverlay');
+const zoomedImg = document.getElementById('zoomedImage');
+
+document.addEventListener('mouseover', function (event) {
+  if (event.target.classList.contains('imagem')) {
+    zoomedImg.src = event.target.src;
+    overlay.classList.add('active');
+  }
+});
+
+overlay.addEventListener('mouseleave', () => {
+  overlay.classList.remove('active');
+  zoomedImg.src = '';
+});
