@@ -6,7 +6,7 @@ const imagems = [
   { name: "QUADRO DE CACHAÇA", tipo: "REALISMO", src: "img/cachasa lapis.jpg" },
   { name: "CARAMELO", tipo: "REALISMO", src: "img/cachorro lapis.jpg" },
   { name: "joaquin phoenix CORINGA", tipo: "REALISMO", src: "img/coringa 2.jpg" },
-  { name: "MARCA TEXTO", tipo: "DIGITAL", src: "img/ana digital.jpg" },
+ 
   { name: "Daenerys Targaryen", tipo: "REALISMO", src: "img/Daenerys Targaryen.jpg" },
   { name: "CORINGA", tipo: "REALISMO", src: "img/coringa.jpg" },
   { name: "Justiceiro", tipo: "REALISMO", src: "img/justiceiro.jpg" },
@@ -19,7 +19,7 @@ const imagems = [
   { name: "BANANAS", tipo: "REALISMO", src: "img/banana.jpg" },
   { name: "Hajime no Ippo", tipo: "DIGITAL", src: "img/box digital.jpg" },
   { name: "Decoração Bulma", tipo: "ANIME", src: "img/bulma.jpg" },
-
+  { name: "MARCA TEXTO", tipo: "DIGITAL", src: "img/ana digital.jpg" },
 
 
   { name: "Deadpool & Wolverine", tipo: "DIGITAL", src: "img/deadpooo digital.jpg" },
