@@ -1,5 +1,5 @@
 const imagems = [
-  { name: "margot robbie arlequina", tipo: "REALISMO", src: "img/alerquina.jpg" },
+  { name: "Margot robbie arlequina", tipo: "REALISMO", src: "img/alerquina.jpg" },
   { name: "Tim Maia", tipo: "REALISMO", src: "img/timai lapis.jpg" },
   { name: "Sabotage", tipo: "REALISMO", src: "img/sabotageb lappis.jpg" },
   { name: "Chorão", tipo: "REALISMO", src: "img/chorao.jpg" },
