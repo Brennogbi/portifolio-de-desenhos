@@ -156,7 +156,7 @@
   }
   
   footer .redes a:hover {
-    color: #ff0000;
+    color: #3efd04;
   }
 
   /* ===== MENU MOBILE RESPONSIVO ===== */
@@ -168,7 +168,7 @@
   border: none;
   cursor: pointer;
   position: absolute;
-  top: 20px;
+  top: 10px;
   left: 10px;
   z-index: 1001;
 }
@@ -243,10 +243,12 @@
     text-align: center;
   }
 
-  header h1 {
-    font-size: 2.1rem;
+  header,h1 {
+    
+    font-size: 0.8rem;
     color: #fffefe;
     font-weight: bold;
+    
   }
 
   .biografia h2,
