@@ -84,10 +84,11 @@
   
   .card {
     width: 200px;
-    background: #111;
+    background: #0e0d0d;
     padding: 10px;
     border-radius: 10px;
     text-align: center;
+    border: 2px solid white;
   }
   
   .imagem {
@@ -159,12 +160,12 @@
   display: none;
   font-size: 28px;
   background: none;
-  color: white;
+  color: rgb(241, 239, 239);
   border: none;
   cursor: pointer;
   position: absolute;
   top: 20px;
-  left: 20px;
+  left: 10px;
   z-index: 1001;
 }
 
