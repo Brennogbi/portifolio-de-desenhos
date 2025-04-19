@@ -102,9 +102,13 @@
     transform: scale(2.05);
   }
   
-  .name,
+  .name,h2{
+    color: rgb(13, 224, 13);
+    font-weight: bold;
+  } 
+  
   .card p {
-    color: white;
+    color: rgb(255, 254, 254);
     font-weight: bold;
   }
 
